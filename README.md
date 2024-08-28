@@ -10,4 +10,4 @@ Gui made using pygame
 # To Run
 cd into python-algo
 
-run <python3 -m simulator>
+run "python3 -m simulator"
