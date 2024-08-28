@@ -1,2 +1,8 @@
 # terminal-summer2024
-My repo for the Citadel Terminal Summer 2024 Inivitational!
+Turn simulator for the summer invitational terminal 2024.
+Meta was scout heavy so only accounted for those to opitmize performance.
+Gui made using pygame
+
+# To Run
+cd into python-algo
+run python3 -m simulator
