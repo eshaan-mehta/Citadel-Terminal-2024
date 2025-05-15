@@ -1,4 +1,4 @@
-# terminal-summer2024
+# Citadel Terminal Summer 2024
 Turn simulator for the summer invitational terminal 2024.
 
 Simulate movement, attacking, shielding. User can operate frame by frame in the round using the right arrow key.
